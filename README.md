@@ -1,6 +1,5 @@
 # Image_Processing
 
----
 
 ## Introdução
 
