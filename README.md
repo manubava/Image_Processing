@@ -45,4 +45,4 @@ O código foi planejado em etapas, cada uma com uma função específica:
 4. **Verificar regiões conectadas:** A função "regiao_conectada" verifica se um pixel faz parte de uma região conectada de pixels com a mesma cor.
 5. **Função principal:** A função "contar_estrelas_e_meteoros" chama as funções anteriores para carregar a imagem, contar estrelas e meteoros, e retornar os resultados.
 
----
+
